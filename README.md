@@ -7,7 +7,7 @@
     1. `cd github-reports`
     1. `go build .`
 1. [Create credentials](#create-credentials) (one-time setup)
-1. Run
+1. Run! e.g.:
 
     ```sh
     ./github-dependabot-report
